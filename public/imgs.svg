@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+    <symbol id="arrow" viewBox="0 0 18 12">
+        <path d="M1 6H17.0015M17.0015 6L12.0015 1M17.0015 6L12.0015 11" stroke="#0E0D0C" stroke-linecap="round" stroke-linejoin="round"/>
+    </symbol>
+    <symbol id="slider" viewBox="0 0 6 10" fill="none" >
+        <path d="M1 1L5 5L1 9" stroke="#23211F" stroke-linecap="round" stroke-linejoin="round"/>
+    </symbol>
+    <symbol id="checkedRadio" viewBox="0 0 24 24" fill="none">
+        <rect x="0.5" y="0.5" width="23" height="23" rx="11.5" stroke="#23211F"/>
+        <circle cx="12" cy="12" r="4" fill="#23211F"/>
+    </symbol>
+    <symbol id="uncheckedRadio" viewBox="0 0 24 24" fill="none">
+        <circle cx="12" cy="12" r="11.5" fill="white" stroke="#23211F"/>
+    </symbol>
+    <symbol id="defaultRadio" viewBox=" 0 0 24 24" fill="none" >
+        <rect x="0.5" y="0.5" width="23" height="23" rx="11.5" stroke="#8D9096"/>
+    </symbol>
+    <symbol id="defaultCheckBox" viewBox=" 0 0 24 24" fill="none" >
+        <rect x="0.5" y="0.5" width="23" height="23" rx="7.5" stroke="#8D9096"/>
+    </symbol>
+    <symbol id="hoverCheckBox" viewBox=" 0 0 24 24" fill="none" >
+        <rect x="0.5" y="0.5" width="23" height="23" rx="7.5" stroke="#23211F"/>
+    </symbol>
+    <symbol id="activeCheckBox" viewBox=" 0 0 24 24" fill="none" >
+        <rect width="24" height="24" rx="8" fill="#FCE09E"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M16.793 8.11075C16.8482 8.15345 16.8945 8.20668 16.9293 8.2674C16.964 8.32812 16.9865 8.39515 16.9956 8.46463C17.0046 8.53412 16.9999 8.60472 16.9818 8.67238C16.9636 8.74004 16.9325 8.80345 16.89 8.85897L11.5922 15.7919C11.5463 15.852 11.4881 15.9016 11.4216 15.9373C11.3551 15.973 11.2818 15.994 11.2066 15.9989C11.1313 16.0038 11.0559 15.9925 10.9854 15.9657C10.9149 15.9389 10.8509 15.8973 10.7976 15.8436L8.14871 13.1771C8.05221 13.0765 7.99881 12.9418 8.00002 12.802C8.00123 12.6622 8.05694 12.5284 8.15517 12.4295C8.25339 12.3306 8.38627 12.2746 8.52517 12.2733C8.66408 12.2721 8.7979 12.3259 8.89781 12.423L11.1202 14.6602L16.0498 8.20834C16.0922 8.15278 16.1451 8.10617 16.2054 8.07119C16.2657 8.03621 16.3323 8.01354 16.4013 8.00448C16.4703 7.99542 16.5405 8.00014 16.6077 8.01837C16.6749 8.0366 16.7379 8.068 16.793 8.11075V8.11075Z" fill="#23211F"/>
+    </symbol>
+    <symbol id="selectArrow" viewBox=" 0 0 10 6" fill="none" >
+        <path d="M9 1L5 5L1 1" stroke="#25201B" stroke-linecap="round" stroke-linejoin="round"/>
+    </symbol>
+</svg>

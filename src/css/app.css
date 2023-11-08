@@ -1,0 +1,21 @@
+
+:root{
+/*Для текущих*/    
+    --q-current: #FCE09E;
+    --q-current-hover: #FFD676;
+    --q-current-pressed: #FCBC94;
+    --q-current-disabled: #FEF4DB; 
+/*Для пройденных*/
+    --q-passed: #74CBB5;
+    --q-passed-hover: #4EDAB6;
+    --q-passed-pressed: #21C3B0;
+    --q-passed-disabled: #D1F0E9;
+
+    --q-font-inter: 
+}
+
+.font-inter{
+    font-family: Inter;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Roboto&display=swap')
